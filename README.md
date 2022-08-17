@@ -17,6 +17,6 @@ Other stuffs:
 - 🔭 I’m currently working on JS & TS SDK
 - 🌱 I’m currently learning Solidity
 - 💬 Ask me about videogames, skateboard, guitar
-- 📫 How to reach me: (https://twitter.com/JohannKalote)[Twitter] - (https://www.linkedin.com/in/johann-bich-67a52031/)[LinkedIn]
+- 📫 How to reach me: [Twitter](https://twitter.com/JohannKalote) - [LinkedIn](https://www.linkedin.com/in/johann-bich-67a52031/)
 - 😄 Pronouns: He / His / Him
 - ⚡ Fun fact: I'm the proud father of 3 kids (twin daughters & 1 baby boy) / I've been working in Paris, Hong Kong, Tokyo and now Barcelona
