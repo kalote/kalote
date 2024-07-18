@@ -12,13 +12,14 @@ My name's Johann BICH, I've been working in tech for the past 20 years (gosh I'm
 - Tech lead (nodeJS, React, Solidity, Tailwindcss, NestJS, NextJS, Golang)
 - Engineer manager (Azure, FaaS, ERP, NestJS, NextJS)
 - Lead devOps (GCP, Ansible, Geth / Erigon, Prysm / Lighthous, K8s, CloudFlare)
+- Lead devOps (AWS, K8s, Karpenter, ArgoCD, Helm, grafana, Cloudflare)
  
 ---
 
 Other stuffs:
-- 🔭 I’m currently working on LUKSO's blockchain mainnet / testnet
+- 🔭 I’m currently working at LIFI
 - 🌱 I’m currently learning Solidity and Golang
 - 💬 Ask me about videogames, skateboard, guitar
 - 📫 How to reach me: [Twitter](https://twitter.com/JohannKalote) - [LinkedIn](https://www.linkedin.com/in/johann-bich-67a52031/)
 - 😄 Pronouns: He / His / Him
-- ⚡ Fun fact: I'm the proud father of 3 kids (twin daughters & 1 baby boy) / I've been working in Paris, Hong Kong, Tokyo and now Barcelona
+- ⚡ Fun fact: I'm the proud father of 3 kids / I've been working in Paris, Hong Kong, Tokyo and now Barcelona
